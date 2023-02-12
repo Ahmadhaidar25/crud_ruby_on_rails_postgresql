@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  npm: MyString
+  nama_mahasiswa: MyString
+  jenis_kelamin: MyString
+  jurusan: MyString
+
+two:
+  npm: MyString
+  nama_mahasiswa: MyString
+  jenis_kelamin: MyString
+  jurusan: MyString
